@@ -5,10 +5,6 @@ import './App.css';
 import HomePage from './Pages/HomePage'
 import AfterHours from './Pages/AfterHours'
 
-$(document).ready(function(){
-  $('.parallax').parallax();
-});
-
 function App() {
   return (
     <Router>
