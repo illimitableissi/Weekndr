@@ -38,7 +38,7 @@ class Melancholy extends React.Component {
                     </div>
                 </div>
             </div>
-            <div className="parallax"><img src={albums[5].cover}></img></div>
+            <div className="parallax"><img src={albums[1].cover}></img></div>
             </div>
         )
     };

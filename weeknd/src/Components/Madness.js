@@ -38,7 +38,7 @@ class Madness extends React.Component {
                     </div>
                 </div>
             </div>
-            <div className="parallax"><img src={albums[5].cover}></img></div>
+            <div className="parallax"><img src={albums[3].cover}></img></div>
             </div>
         )
     };

@@ -38,7 +38,7 @@ class AfterHours extends React.Component {
                     </div>
                 </div>
             </div>
-            <div className="parallax"><img src={albums[5].cover}></img></div>
+            <div className="parallax"><img src={albums[0].cover}></img></div>
             </div>
         )
     };

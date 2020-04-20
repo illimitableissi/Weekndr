@@ -38,7 +38,7 @@ class KissLand extends React.Component {
                     </div>
                 </div>
             </div>
-            <div className="parallax"><img src={albums[5].cover}></img></div>
+            <div className="parallax"><img src={albums[4].cover}></img></div>
             </div>
         )
     };
