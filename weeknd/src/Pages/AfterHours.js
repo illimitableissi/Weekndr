@@ -4,7 +4,7 @@ var Spotify = require('node-spotify-api');
 
 class AfterHours extends React.Component {
     state = {
-        album: {}
+        album: []
     }
 
     componentDidMount() {
@@ -14,7 +14,7 @@ class AfterHours extends React.Component {
           });
         spotify.request('https://api.spotify.com/v1/albums/4yP0hdKOZPNshxUOjY0cZj/tracks')
             .then(res => {
-                this.setState({ album: res }) 
+                this.setState({ album: res.items }) 
                 console.log(this.state.album)})
             .catch(err => console.log(err));
     }
@@ -25,9 +25,9 @@ class AfterHours extends React.Component {
             <div className="parallax">
                 <img src="images/parallax1.jpg" />
                 <p>This works</p>
-                {/* {this.state.album.items.map(tracks => (
+                {this.state.album.map(tracks => (
                     <p>{tracks.name}</p>
-                ))} */}
+                ))}
             </div>
         </div>
         );
