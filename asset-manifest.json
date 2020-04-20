@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Weekndr/static/css/main.84b7d46c.chunk.css",
-    "main.js": "/Weekndr/static/js/main.ceec0d4b.chunk.js",
-    "main.js.map": "/Weekndr/static/js/main.ceec0d4b.chunk.js.map",
+    "main.css": "/Weekndr/static/css/main.2fa40a4f.chunk.css",
+    "main.js": "/Weekndr/static/js/main.f0e437b0.chunk.js",
+    "main.js.map": "/Weekndr/static/js/main.f0e437b0.chunk.js.map",
     "runtime-main.js": "/Weekndr/static/js/runtime-main.f9075d0d.js",
     "runtime-main.js.map": "/Weekndr/static/js/runtime-main.f9075d0d.js.map",
-    "static/js/2.74e4f79d.chunk.js": "/Weekndr/static/js/2.74e4f79d.chunk.js",
-    "static/js/2.74e4f79d.chunk.js.map": "/Weekndr/static/js/2.74e4f79d.chunk.js.map",
+    "static/js/2.6dd309b1.chunk.js": "/Weekndr/static/js/2.6dd309b1.chunk.js",
+    "static/js/2.6dd309b1.chunk.js.map": "/Weekndr/static/js/2.6dd309b1.chunk.js.map",
     "index.html": "/Weekndr/index.html",
-    "precache-manifest.28bdab4705ab1ba9019cb7f5e0b5eca5.js": "/Weekndr/precache-manifest.28bdab4705ab1ba9019cb7f5e0b5eca5.js",
+    "precache-manifest.cde5544db3123998a1844e8a856375b2.js": "/Weekndr/precache-manifest.cde5544db3123998a1844e8a856375b2.js",
     "service-worker.js": "/Weekndr/service-worker.js",
-    "static/css/main.84b7d46c.chunk.css.map": "/Weekndr/static/css/main.84b7d46c.chunk.css.map",
-    "static/js/2.74e4f79d.chunk.js.LICENSE.txt": "/Weekndr/static/js/2.74e4f79d.chunk.js.LICENSE.txt"
+    "static/css/main.2fa40a4f.chunk.css.map": "/Weekndr/static/css/main.2fa40a4f.chunk.css.map",
+    "static/js/2.6dd309b1.chunk.js.LICENSE.txt": "/Weekndr/static/js/2.6dd309b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f9075d0d.js",
-    "static/js/2.74e4f79d.chunk.js",
-    "static/css/main.84b7d46c.chunk.css",
-    "static/js/main.ceec0d4b.chunk.js"
+    "static/js/2.6dd309b1.chunk.js",
+    "static/css/main.2fa40a4f.chunk.css",
+    "static/js/main.f0e437b0.chunk.js"
   ]
 }
