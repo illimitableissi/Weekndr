@@ -2,6 +2,8 @@ import React from 'react';
 import albums from '../albums'
 var Spotify = require('node-spotify-api');
 
+console.log(albums) 
+
 
 class AfterHours extends React.Component {
     state = {

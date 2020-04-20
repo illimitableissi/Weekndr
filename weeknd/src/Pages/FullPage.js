@@ -9,8 +9,6 @@ import Section from '../Components/Section'
 import '../Pages/style.css'
 import albums from '../albums.js'
 
-console.log(albums) 
-
 const FullPage = () => {
     return (
         <div>
