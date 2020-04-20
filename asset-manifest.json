@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Weekndr/static/css/main.9658cbf7.chunk.css",
-    "main.js": "/Weekndr/static/js/main.0433c789.chunk.js",
-    "main.js.map": "/Weekndr/static/js/main.0433c789.chunk.js.map",
+    "main.js": "/Weekndr/static/js/main.fd861a99.chunk.js",
+    "main.js.map": "/Weekndr/static/js/main.fd861a99.chunk.js.map",
     "runtime-main.js": "/Weekndr/static/js/runtime-main.f9075d0d.js",
     "runtime-main.js.map": "/Weekndr/static/js/runtime-main.f9075d0d.js.map",
     "static/js/2.cd33eee9.chunk.js": "/Weekndr/static/js/2.cd33eee9.chunk.js",
     "static/js/2.cd33eee9.chunk.js.map": "/Weekndr/static/js/2.cd33eee9.chunk.js.map",
     "index.html": "/Weekndr/index.html",
-    "precache-manifest.1a46176e27d0d2ac78ed1ec2ab02bd64.js": "/Weekndr/precache-manifest.1a46176e27d0d2ac78ed1ec2ab02bd64.js",
+    "precache-manifest.b6c2c7dffd9084ad095687c47f729b52.js": "/Weekndr/precache-manifest.b6c2c7dffd9084ad095687c47f729b52.js",
     "service-worker.js": "/Weekndr/service-worker.js",
     "static/css/main.9658cbf7.chunk.css.map": "/Weekndr/static/css/main.9658cbf7.chunk.css.map",
     "static/js/2.cd33eee9.chunk.js.LICENSE.txt": "/Weekndr/static/js/2.cd33eee9.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f9075d0d.js",
     "static/js/2.cd33eee9.chunk.js",
     "static/css/main.9658cbf7.chunk.css",
-    "static/js/main.0433c789.chunk.js"
+    "static/js/main.fd861a99.chunk.js"
   ]
 }
