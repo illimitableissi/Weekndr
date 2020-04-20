@@ -26,7 +26,7 @@ const FullPage = () => {
             <Trilogy />
             <br></br>
             <div className="center">
-            <a href="/Weekndr"><img src="./images/xo.jpg" id="weeknd"></img></a>
+            <a href="/"><img src="./images/xo.jpg" id="weeknd"></img></a>
             </div>
         </div>
     );

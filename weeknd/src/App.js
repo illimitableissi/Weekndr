@@ -7,8 +7,8 @@ function App() {
   return (
     <Router>
       <div>
-          <Route exact path="/Weekndr" component={HomePage} />
-          <Route exact path="/Weekndr/albums" component={FullPage} />
+          <Route exact path={process.env.PUBLIC_URL + '/'} component={HomePage} />
+          <Route exact path={process.env.PUBLIC_URL + '/' + 'albums'} component={FullPage} />
       </div>
     </Router>
   );
