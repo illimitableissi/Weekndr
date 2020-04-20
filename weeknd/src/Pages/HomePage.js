@@ -8,7 +8,7 @@ const HomePage = () => {
             <img src="./images/xo.jpg" id="weeknd"></img>
             <br></br>
             <div className="row">
-            <a href="/albums" className="waves-effect black btn">View Albums</a>
+            <a href="/Weekndr/albums" className="waves-effect black btn">View Albums</a>
             </div>
             </div>
         </div>
