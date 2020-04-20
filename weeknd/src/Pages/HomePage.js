@@ -5,7 +5,7 @@ const HomePage = () => {
     return (
         <div className="homeWrapper">
             <div className="container center">
-            <img src="/images/xo.jpg" id="weeknd"></img>
+            <img src="./images/xo.jpg" id="weeknd"></img>
             <br></br>
             <div className="row">
             <a href="/albums" className="waves-effect black btn">View Albums</a>

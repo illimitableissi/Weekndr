@@ -7,21 +7,24 @@ import KissLand from '../Components/KissLand'
 import Trilogy from '../Components/Trilogy'
 import Section from '../Components/Section'
 import '../Pages/style.css'
+import albums from '../albums.js'
+
+console.log(albums) 
 
 const FullPage = () => {
     return (
         <div>
-            <Section albumName="after hours." />
+            <Section albumName={albums[0].albumName} />
             <AfterHours />
-            <Section albumName="my dear melancholy." />
+            <Section albumName={albums[1].albumName} />
             <Melancholy />
-            <Section albumName="starboy." />
+            <Section albumName={albums[2].albumName} />
             <StarBoy />
-            <Section albumName="beauty behind the madness." />
+            <Section albumName={albums[3].albumName} />
             <Madness />
-            <Section albumName="kiss land." />
+            <Section albumName={albums[4].albumName}/>
             <KissLand />
-            <Section albumName="trilogy." />
+            <Section albumName={albums[5].albumName} />
             <Trilogy />
             <br></br>
             <div className="center">
