@@ -9,7 +9,7 @@
 }
 
 .homeWrapper {
-    background-image: url(/images/weekndTwo.jpg);
+    background-image: url(./weekndTwo.jpg);
     background-position: center;
     background-repeat: no-repeat;
     height: 1000px
