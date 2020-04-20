@@ -1,4 +1,20 @@
 .card {
-    height: 200px;
+    height: 300px;
     opacity: .7
+}
+
+#section {
+    font-family: 'Special Elite', cursive;
+    font-size: 40px;
+}
+
+.homeWrapper {
+    background-image: url(/images/weekndTwo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 1000px
+}
+
+#weeknd {
+    height: 100px
 }

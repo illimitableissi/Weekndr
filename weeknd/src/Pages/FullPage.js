@@ -11,18 +11,22 @@ import '../Pages/style.css'
 const FullPage = () => {
     return (
         <div>
-            <Section albumName="After Hours" />
+            <Section albumName="after hours." />
             <AfterHours />
-            <Section albumName="My Dear Melancholy" />
+            <Section albumName="my dear melancholy." />
             <Melancholy />
-            <Section albumName="Star Boy" />
+            <Section albumName="starboy." />
             <StarBoy />
-            <Section albumName="Beauty Behind the Madness" />
+            <Section albumName="beauty behind the madness." />
             <Madness />
-            <Section albumName="Kiss Land" />
+            <Section albumName="kiss land." />
             <KissLand />
-            <Section albumName="Trilogy" />
+            <Section albumName="trilogy." />
             <Trilogy />
+            <br></br>
+            <div className="center">
+            <a href="/"><img src="/images/xo.jpg" id="weeknd"></img></a>
+            </div>
         </div>
     );
 };
