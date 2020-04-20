@@ -23,11 +23,21 @@ class AfterHours extends React.Component {
         return (
             <div className="parallax-container">
             <div className="parallax">
-                <img src="images/parallax1.jpg" />
-                <p>This works</p>
+                <img src="images/afterHours.jpg"></img>
+                <div className="row">
                 {this.state.album.map(tracks => (
+                        <div className="col s6 m2">
+                        <div className="card blue-grey darken-1">
+                        <div className="card-content white-text">
                     <p>{tracks.name}</p>
+                    <div className="card-action">
+                    <a href={tracks.external_urls.spotify}>Play on Spotify</a>
+                    </div>
+                    </div>
+                    </div>
+                    </div>
                 ))}
+                </div>
             </div>
         </div>
         );
