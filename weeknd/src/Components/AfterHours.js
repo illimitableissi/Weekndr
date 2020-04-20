@@ -1,8 +1,9 @@
 import React from 'react';
-import albums from '../albums'
+import albums from '../albums';
+var keys = require("../keys");
 var Spotify = require('node-spotify-api');
 
-console.log(albums) 
+console.log(keys) 
 
 
 class AfterHours extends React.Component {
@@ -11,10 +12,8 @@ class AfterHours extends React.Component {
     }
 
     componentDidMount() {
-        var spotify = new Spotify({
-            id: 'ac73e18e77e9438f97bc664c8503b3cd',
-            secret: '1c84162373774c8cb85187e4c178afc6'
-          });
+        var spotify = new Spotify(keys.spotify);
+
         spotify.request(albums[0].spotify)
             .then(res => {
                 this.setState({ album: res.items }) 
