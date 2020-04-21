@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Weekndr/static/css/main.9658cbf7.chunk.css",
-    "main.js": "/Weekndr/static/js/main.85cdc4ca.chunk.js",
-    "main.js.map": "/Weekndr/static/js/main.85cdc4ca.chunk.js.map",
+    "main.js": "/Weekndr/static/js/main.98debe25.chunk.js",
+    "main.js.map": "/Weekndr/static/js/main.98debe25.chunk.js.map",
     "runtime-main.js": "/Weekndr/static/js/runtime-main.f9075d0d.js",
     "runtime-main.js.map": "/Weekndr/static/js/runtime-main.f9075d0d.js.map",
-    "static/js/2.6a8606d5.chunk.js": "/Weekndr/static/js/2.6a8606d5.chunk.js",
-    "static/js/2.6a8606d5.chunk.js.map": "/Weekndr/static/js/2.6a8606d5.chunk.js.map",
+    "static/js/2.1535cdea.chunk.js": "/Weekndr/static/js/2.1535cdea.chunk.js",
+    "static/js/2.1535cdea.chunk.js.map": "/Weekndr/static/js/2.1535cdea.chunk.js.map",
     "index.html": "/Weekndr/index.html",
-    "precache-manifest.81bd9fc594fe82246dd7111c7bfe6534.js": "/Weekndr/precache-manifest.81bd9fc594fe82246dd7111c7bfe6534.js",
+    "precache-manifest.0d61fa2e97e4c9ceaafa0932ba870dc6.js": "/Weekndr/precache-manifest.0d61fa2e97e4c9ceaafa0932ba870dc6.js",
     "service-worker.js": "/Weekndr/service-worker.js",
     "static/css/main.9658cbf7.chunk.css.map": "/Weekndr/static/css/main.9658cbf7.chunk.css.map",
-    "static/js/2.6a8606d5.chunk.js.LICENSE.txt": "/Weekndr/static/js/2.6a8606d5.chunk.js.LICENSE.txt",
+    "static/js/2.1535cdea.chunk.js.LICENSE.txt": "/Weekndr/static/js/2.1535cdea.chunk.js.LICENSE.txt",
     "static/media/style.css": "/Weekndr/static/media/weekndTwo.f05188f0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f9075d0d.js",
-    "static/js/2.6a8606d5.chunk.js",
+    "static/js/2.1535cdea.chunk.js",
     "static/css/main.9658cbf7.chunk.css",
-    "static/js/main.85cdc4ca.chunk.js"
+    "static/js/main.98debe25.chunk.js"
   ]
 }
