@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8117abc7c44d75efb8696439f07f243f",
+    "revision": "626e5f30c4c5856b6085cb0d3a0e9eb1",
     "url": "/Weekndr/index.html"
   },
   {
-    "revision": "74102c540144f0e9d3cc",
-    "url": "/Weekndr/static/css/main.9658cbf7.chunk.css"
+    "revision": "2f0ea5de4adadf0ddcde",
+    "url": "/Weekndr/static/css/main.9c4cada0.chunk.css"
   },
   {
     "revision": "d95b8b8af7de9b1fe62b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Weekndr/static/js/2.1535cdea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "74102c540144f0e9d3cc",
-    "url": "/Weekndr/static/js/main.98debe25.chunk.js"
+    "revision": "2f0ea5de4adadf0ddcde",
+    "url": "/Weekndr/static/js/main.12a4cecd.chunk.js"
   },
   {
     "revision": "637c1e1c207f26f890ac",
