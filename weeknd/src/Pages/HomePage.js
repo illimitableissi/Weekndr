@@ -6,9 +6,8 @@ const HomePage = () => {
         <div className="homeWrapper">
             <div className="container center">
             <img src="./images/xo.jpg" id="weeknd"></img>
+            <p id="credit">Photo Credit: Steve Schofield</p>
             <br></br>
-            <div className="row">
-            </div>
             </div>
         </div>
     );
