@@ -9,6 +9,7 @@ import Section from '../Components/Section'
 import '../Pages/style.css'
 import albums from '../albums.js'
 
+
 const FullPage = () => {
     return (
         <div>
@@ -26,7 +27,7 @@ const FullPage = () => {
             <Trilogy />
             <br></br>
             <div className="center">
-            <a href="/"><img src="./images/xo.jpg" id="weeknd"></img></a>
+            <a href="#/"><img src="./images/xo.jpg" id="weeknd"></img></a>
             </div>
         </div>
     );

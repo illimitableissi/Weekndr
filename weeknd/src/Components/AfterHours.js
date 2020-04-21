@@ -3,7 +3,7 @@ import albums from '../albums';
 var keys = require("../keys");
 var Spotify = require('node-spotify-api');
 
-console.log(keys) 
+console.log(albums) 
 
 
 class AfterHours extends React.Component {
@@ -16,12 +16,12 @@ class AfterHours extends React.Component {
 
         spotify.request(albums[0].spotify)
             .then(res => {
-                this.setState({ album: res.items }) 
+                this.setState({ album: res.items })
                 console.log(this.state.album)})
             .catch(err => console.log(err));
     }
 
-    render () {
+    render () { 
         return (
             <div className="parallax-container">
             <div className="row">
